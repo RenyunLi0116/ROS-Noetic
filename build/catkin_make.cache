@@ -1,0 +1,2 @@
+learning_communication:learning_tf:mbot_description:mbot_gazebo:mbot_teleop:pro_moveit_config:serial:swift_moveit_config:swiftpro:usb_cam
+-DCATKIN_DEVEL_PREFIX=/root/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/root/catkin_ws/install -G Unix Makefiles

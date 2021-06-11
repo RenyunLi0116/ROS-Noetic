@@ -1,0 +1,618 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_95f8b/fast && /usr/bin/make -f CMakeFiles/cmTC_95f8b.dir/build.make CMakeFiles/cmTC_95f8b.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95f8b.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_95f8b.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_95f8b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_95f8b.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_95f8b.dir/testCCompiler.c.o  -o cmTC_95f8b 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_95f8b.dir/build.make:87: cmTC_95f8b] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_95f8b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bc00b/fast && /usr/bin/make -f CMakeFiles/cmTC_bc00b.dir/build.make CMakeFiles/cmTC_bc00b.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bc00b.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_bc00b.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_bc00b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bc00b.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_bc00b.dir/testCCompiler.c.o  -o cmTC_bc00b 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_bc00b.dir/build.make:87: cmTC_bc00b] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_bc00b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c8f3c/fast && /usr/bin/make -f CMakeFiles/cmTC_c8f3c.dir/build.make CMakeFiles/cmTC_c8f3c.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c8f3c.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c8f3c.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c8f3c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c8f3c.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c8f3c.dir/testCCompiler.c.o  -o cmTC_c8f3c 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_c8f3c.dir/build.make:87: cmTC_c8f3c] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c8f3c/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d6638/fast && /usr/bin/make -f CMakeFiles/cmTC_d6638.dir/build.make CMakeFiles/cmTC_d6638.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d6638.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_d6638.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_d6638
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6638.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_d6638.dir/testCCompiler.c.o  -o cmTC_d6638 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_d6638.dir/build.make:87: cmTC_d6638] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_d6638/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bdbdc/fast && /usr/bin/make -f CMakeFiles/cmTC_bdbdc.dir/build.make CMakeFiles/cmTC_bdbdc.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bdbdc.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_bdbdc.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_bdbdc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bdbdc.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_bdbdc.dir/testCCompiler.c.o  -o cmTC_bdbdc 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_bdbdc.dir/build.make:87: cmTC_bdbdc] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_bdbdc/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_16502/fast && /usr/bin/make -f CMakeFiles/cmTC_16502.dir/build.make CMakeFiles/cmTC_16502.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_16502.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_16502.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_16502
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16502.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_16502.dir/testCCompiler.c.o  -o cmTC_16502 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_16502.dir/build.make:87: cmTC_16502] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_16502/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e9948/fast && /usr/bin/make -f CMakeFiles/cmTC_e9948.dir/build.make CMakeFiles/cmTC_e9948.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e9948.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e9948.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e9948
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e9948.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e9948.dir/testCCompiler.c.o  -o cmTC_e9948 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_e9948.dir/build.make:87: cmTC_e9948] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e9948/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_65670/fast && /usr/bin/make -f CMakeFiles/cmTC_65670.dir/build.make CMakeFiles/cmTC_65670.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_65670.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_65670.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_65670
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65670.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_65670.dir/testCCompiler.c.o  -o cmTC_65670 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_65670.dir/build.make:87: cmTC_65670] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_65670/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9a091/fast && /usr/bin/make -f CMakeFiles/cmTC_9a091.dir/build.make CMakeFiles/cmTC_9a091.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9a091.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_9a091.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9a091
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9a091.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_9a091.dir/testCCompiler.c.o  -o cmTC_9a091 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_9a091.dir/build.make:87: cmTC_9a091] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9a091/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e5105/fast && /usr/bin/make -f CMakeFiles/cmTC_e5105.dir/build.make CMakeFiles/cmTC_e5105.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e5105.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e5105.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e5105
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5105.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e5105.dir/testCCompiler.c.o  -o cmTC_e5105 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_e5105.dir/build.make:87: cmTC_e5105] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e5105/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_331cb/fast && /usr/bin/make -f CMakeFiles/cmTC_331cb.dir/build.make CMakeFiles/cmTC_331cb.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_331cb.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_331cb.dir/testCCompiler.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_331cb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_331cb.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_331cb.dir/testCCompiler.c.o  -o cmTC_331cb 
+/usr/bin/ld: cannot find /usr/lib/aarch64-linux-gnu/libc_nonshared.a
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_331cb.dir/build.make:87: cmTC_331cb] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_331cb/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7118c/fast && /usr/bin/make -f CMakeFiles/cmTC_7118c.dir/build.make CMakeFiles/cmTC_7118c.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7118c.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_7118c.dir/src.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7118c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7118c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_7118c.dir/src.c.o  -o cmTC_7118c 
+/usr/bin/ld: CMakeFiles/cmTC_7118c.dir/src.c.o: in function `main':
+src.c:(.text+0x48): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x50): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x5c): undefined reference to `pthread_join'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_7118c.dir/build.make:87: cmTC_7118c] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_7118c/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9ab48/fast && /usr/bin/make -f CMakeFiles/cmTC_9ab48.dir/build.make CMakeFiles/cmTC_9ab48.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ab48.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_9ab48.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_9ab48
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ab48.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_9ab48.dir/CheckFunctionExists.c.o  -o cmTC_9ab48  -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_9ab48.dir/build.make:87: cmTC_9ab48] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9ab48/fast] Error 2
+
+
+
+Determining if the CL_VERSION_2_0 exist failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0cd40/fast && /usr/bin/make -f CMakeFiles/cmTC_0cd40.dir/build.make CMakeFiles/cmTC_0cd40.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0cd40.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_0cd40.dir/CheckSymbolExists.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+    2 | #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_0cd40.dir/build.make:66: CMakeFiles/cmTC_0cd40.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0cd40/fast] Error 2
+
+
+File /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_2_0
+  return ((int*)(&CL_VERSION_2_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_2 exist failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5ec96/fast && /usr/bin/make -f CMakeFiles/cmTC_5ec96.dir/build.make CMakeFiles/cmTC_5ec96.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5ec96.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5ec96.dir/CheckSymbolExists.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+    2 | #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_5ec96.dir/build.make:66: CMakeFiles/cmTC_5ec96.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_5ec96/fast] Error 2
+
+
+File /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_2
+  return ((int*)(&CL_VERSION_1_2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_1 exist failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6a4b9/fast && /usr/bin/make -f CMakeFiles/cmTC_6a4b9.dir/build.make CMakeFiles/cmTC_6a4b9.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6a4b9.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_6a4b9.dir/CheckSymbolExists.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+    2 | #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_6a4b9.dir/build.make:66: CMakeFiles/cmTC_6a4b9.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6a4b9/fast] Error 2
+
+
+File /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_1
+  return ((int*)(&CL_VERSION_1_1))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_0 exist failed with the following output:
+Change Dir: /root/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eaed6/fast && /usr/bin/make -f CMakeFiles/cmTC_eaed6.dir/build.make CMakeFiles/cmTC_eaed6.dir/build
+make[1]: Entering directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eaed6.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_eaed6.dir/CheckSymbolExists.c.o   -c /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+    2 | #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_eaed6.dir/build.make:66: CMakeFiles/cmTC_eaed6.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/catkin_ws/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_eaed6/fast] Error 2
+
+
+File /root/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_0
+  return ((int*)(&CL_VERSION_1_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
